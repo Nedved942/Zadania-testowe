@@ -41,7 +41,6 @@ def solution(dict_with_expenses):
                 current_list.extend(food_values)
                 current_list.extend(fuel_values)
                 end_list.extend(current_list)
-    print(end_list)
     result = median(end_list)
     return result
 
