@@ -1,0 +1,5 @@
+Wypisz wszystkie liczby od 1 do 100, jednak jeżeli liczba jest podzielna przez:
+
+trzy – wypisz „Fizz”,
+pięć – wypisz „Buzz”,
+trzy i pięć wypisz „FizzBuzz”.
