@@ -1,3 +1,18 @@
-1. Mediana  ZROBIONE
-2. Fizz Buzz
+Zadania:
+1. Mediana      ZROBIONE
+2. Fizz Buzz    ZROBIONE
 3.
+
+
+
+
+Źródła:
+1. SPOJ
+2. LeetCode
+3. CodeWars
+4. ChatGPD
+5. Kurs Udemy
+6. Książka moja
+7. CodinGame
+
+https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/
