@@ -1,7 +1,7 @@
 Zadania:
 1. Mediana      ZROBIONE
 2. Fizz Buzz    ZROBIONE
-3.
+3. Stos
 
 
 
